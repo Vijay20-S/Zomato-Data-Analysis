@@ -36,13 +36,10 @@ This project performs Exploratory Data Analysis (EDA) on Zomato restaurant data 
 
 ## How to Use
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/Zomato-Data-Analysis.git`  
+   `git clone https://github.com/VijayS-Data/Zomato-Data-Analysis.git`  
 2. Explore the Jupyter notebook in the `notebooks` folder for the analysis.  
 3. Review the Power BI dashboard screenshot in the `dashboards` folder.
 
 ---
 
 Feel free to explore and reach out if you have any questions!
-
-
-
