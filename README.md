@@ -1,12 +1,8 @@
-Zomato-Data-Analysis/
-│
-├── sql/
-│   └── Project data.sql
-│
-├── powerbi/
-│   └── Zomato Analysis
-│
-├── images/
-│   └── Image
-│
-└── README.md
+## Tools Used
+- SQL
+- Power BI
+
+## Files
+- sql/zomato_queries.sql → SQL scripts for data extraction and manipulation  
+- powerbi/zomato_dashboard.pbix → Power BI dashboard file
+
